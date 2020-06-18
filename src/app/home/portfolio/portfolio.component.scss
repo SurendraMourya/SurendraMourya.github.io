@@ -1,0 +1,26 @@
+#portfolio {
+    text-align: center;    
+    a {
+        img {
+            width: 100%;
+        }
+    }
+    mat-card {
+        text-align: left;
+        span {
+            padding-right: 10px;
+        }
+    }
+    h3{
+        margin-right:0cm;margin-left:0cm;font-size:18px;font-family:"Calibri",sans-serif;font-weight:bold;margin-top:0cm;
+    }
+    p{
+        margin-right:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;margin:0cm;margin-bottom:.0001pt;
+    }
+    h4{
+        margin-right:0cm;margin-left:0cm;font-size:16px;font-family:"Calibri",sans-serif;font-weight:bold;margin-top:0cm;
+    }
+    li{
+        margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;color:#58677C;
+    }
+}
